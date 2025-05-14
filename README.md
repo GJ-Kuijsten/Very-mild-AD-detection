@@ -4,7 +4,7 @@ This repository contains the code and resources for a comparative study on early
 
 Early diagnosis of Alzheimer’s disease is critical for timely intervention and improved patient outcomes. This research explores and compares the following architectures:
 
- **HRNet** 
+- **HRNet** 
 - **ConvNeXt** 
 - **MobileNet-V2**
 
